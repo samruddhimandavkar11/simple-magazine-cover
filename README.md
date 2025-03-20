@@ -1,0 +1,1 @@
+# simple-magazine-cover
